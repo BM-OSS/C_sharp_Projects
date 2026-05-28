@@ -1,6 +1,5 @@
 ﻿using GameBag.Fight_Monster_Game;
 using System;
-
 namespace GameBag
 {
     class Program
