@@ -1,2 +1,0 @@
-D:\VsWriteAddApp\GameBag\GameBag.pdb
-D:\VsWriteAddApp\GameBag\GameBag.exe
