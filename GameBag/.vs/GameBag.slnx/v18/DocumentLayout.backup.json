@@ -1,0 +1,283 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\vs2022_C_sharp_daima_data\\GameBag\\GameBag\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53D9632A-157F-CD5E-2BE0-45BAABC28D59}|GameBag.csproj|d:\\vs2022_c_sharp_daima_data\\gamebag\\gamebag\\fight monster game\\armor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53D9632A-157F-CD5E-2BE0-45BAABC28D59}|GameBag.csproj|solutionrelative:fight monster game\\armor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53D9632A-157F-CD5E-2BE0-45BAABC28D59}|GameBag.csproj|d:\\vs2022_c_sharp_daima_data\\gamebag\\gamebag\\fight monster game\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53D9632A-157F-CD5E-2BE0-45BAABC28D59}|GameBag.csproj|solutionrelative:fight monster game\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53D9632A-157F-CD5E-2BE0-45BAABC28D59}|GameBag.csproj|d:\\vs2022_c_sharp_daima_data\\gamebag\\gamebag\\fight monster game\\beginorendscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53D9632A-157F-CD5E-2BE0-45BAABC28D59}|GameBag.csproj|solutionrelative:fight monster game\\beginorendscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53D9632A-157F-CD5E-2BE0-45BAABC28D59}|GameBag.csproj|d:\\vs2022_c_sharp_daima_data\\gamebag\\gamebag\\fight monster game\\beginscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53D9632A-157F-CD5E-2BE0-45BAABC28D59}|GameBag.csproj|solutionrelative:fight monster game\\beginscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53D9632A-157F-CD5E-2BE0-45BAABC28D59}|GameBag.csproj|d:\\vs2022_c_sharp_daima_data\\gamebag\\gamebag\\fight monster game\\boss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53D9632A-157F-CD5E-2BE0-45BAABC28D59}|GameBag.csproj|solutionrelative:fight monster game\\boss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53D9632A-157F-CD5E-2BE0-45BAABC28D59}|GameBag.csproj|d:\\vs2022_c_sharp_daima_data\\gamebag\\gamebag\\fight monster game\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53D9632A-157F-CD5E-2BE0-45BAABC28D59}|GameBag.csproj|solutionrelative:fight monster game\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53D9632A-157F-CD5E-2BE0-45BAABC28D59}|GameBag.csproj|d:\\vs2022_c_sharp_daima_data\\gamebag\\gamebag\\fight monster game\\gamescene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53D9632A-157F-CD5E-2BE0-45BAABC28D59}|GameBag.csproj|solutionrelative:fight monster game\\gamescene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53D9632A-157F-CD5E-2BE0-45BAABC28D59}|GameBag.csproj|d:\\vs2022_c_sharp_daima_data\\gamebag\\gamebag\\fight monster game\\icoincide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53D9632A-157F-CD5E-2BE0-45BAABC28D59}|GameBag.csproj|solutionrelative:fight monster game\\icoincide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53D9632A-157F-CD5E-2BE0-45BAABC28D59}|GameBag.csproj|d:\\vs2022_c_sharp_daima_data\\gamebag\\gamebag\\fight monster game\\idraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53D9632A-157F-CD5E-2BE0-45BAABC28D59}|GameBag.csproj|solutionrelative:fight monster game\\idraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53D9632A-157F-CD5E-2BE0-45BAABC28D59}|GameBag.csproj|d:\\vs2022_c_sharp_daima_data\\gamebag\\gamebag\\fight monster game\\monsterobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53D9632A-157F-CD5E-2BE0-45BAABC28D59}|GameBag.csproj|solutionrelative:fight monster game\\monsterobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53D9632A-157F-CD5E-2BE0-45BAABC28D59}|GameBag.csproj|d:\\vs2022_c_sharp_daima_data\\gamebag\\gamebag\\fight monster game\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53D9632A-157F-CD5E-2BE0-45BAABC28D59}|GameBag.csproj|solutionrelative:fight monster game\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53D9632A-157F-CD5E-2BE0-45BAABC28D59}|GameBag.csproj|d:\\vs2022_c_sharp_daima_data\\gamebag\\gamebag\\fight monster game\\prosition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53D9632A-157F-CD5E-2BE0-45BAABC28D59}|GameBag.csproj|solutionrelative:fight monster game\\prosition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53D9632A-157F-CD5E-2BE0-45BAABC28D59}|GameBag.csproj|d:\\vs2022_c_sharp_daima_data\\gamebag\\gamebag\\fight monster game\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53D9632A-157F-CD5E-2BE0-45BAABC28D59}|GameBag.csproj|solutionrelative:fight monster game\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53D9632A-157F-CD5E-2BE0-45BAABC28D59}|GameBag.csproj|d:\\vs2022_c_sharp_daima_data\\gamebag\\gamebag\\fight monster game\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53D9632A-157F-CD5E-2BE0-45BAABC28D59}|GameBag.csproj|solutionrelative:fight monster game\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53D9632A-157F-CD5E-2BE0-45BAABC28D59}|GameBag.csproj|d:\\vs2022_c_sharp_daima_data\\gamebag\\gamebag\\fight monster game\\endscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53D9632A-157F-CD5E-2BE0-45BAABC28D59}|GameBag.csproj|solutionrelative:fight monster game\\endscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Game.cs",
+              "DocumentMoniker": "D:\\vs2022_C_sharp_daima_data\\GameBag\\GameBag\\Fight Monster Game\\Game.cs",
+              "RelativeDocumentMoniker": "Fight Monster Game\\Game.cs",
+              "ToolTip": "D:\\vs2022_C_sharp_daima_data\\GameBag\\GameBag\\Fight Monster Game\\Game.cs",
+              "RelativeToolTip": "Fight Monster Game\\Game.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T07:53:32.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameObject.cs",
+              "DocumentMoniker": "D:\\vs2022_C_sharp_daima_data\\GameBag\\GameBag\\Fight Monster Game\\GameObject.cs",
+              "RelativeDocumentMoniker": "Fight Monster Game\\GameObject.cs",
+              "ToolTip": "D:\\vs2022_C_sharp_daima_data\\GameBag\\GameBag\\Fight Monster Game\\GameObject.cs",
+              "RelativeToolTip": "Fight Monster Game\\GameObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T11:48:28.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GameScene.cs",
+              "DocumentMoniker": "D:\\vs2022_C_sharp_daima_data\\GameBag\\GameBag\\Fight Monster Game\\GameScene.cs",
+              "RelativeDocumentMoniker": "Fight Monster Game\\GameScene.cs",
+              "ToolTip": "D:\\vs2022_C_sharp_daima_data\\GameBag\\GameBag\\Fight Monster Game\\GameScene.cs",
+              "RelativeToolTip": "Fight Monster Game\\GameScene.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcBAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T07:55:02.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ICoincide.cs",
+              "DocumentMoniker": "D:\\vs2022_C_sharp_daima_data\\GameBag\\GameBag\\Fight Monster Game\\ICoincide.cs",
+              "RelativeDocumentMoniker": "Fight Monster Game\\ICoincide.cs",
+              "ToolTip": "D:\\vs2022_C_sharp_daima_data\\GameBag\\GameBag\\Fight Monster Game\\ICoincide.cs",
+              "RelativeToolTip": "Fight Monster Game\\ICoincide.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T14:56:56.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IDraw.cs",
+              "DocumentMoniker": "D:\\vs2022_C_sharp_daima_data\\GameBag\\GameBag\\Fight Monster Game\\IDraw.cs",
+              "RelativeDocumentMoniker": "Fight Monster Game\\IDraw.cs",
+              "ToolTip": "D:\\vs2022_C_sharp_daima_data\\GameBag\\GameBag\\Fight Monster Game\\IDraw.cs",
+              "RelativeToolTip": "Fight Monster Game\\IDraw.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T11:47:37.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MonsterObject.cs",
+              "DocumentMoniker": "D:\\vs2022_C_sharp_daima_data\\GameBag\\GameBag\\Fight Monster Game\\MonsterObject.cs",
+              "RelativeDocumentMoniker": "Fight Monster Game\\MonsterObject.cs",
+              "ToolTip": "D:\\vs2022_C_sharp_daima_data\\GameBag\\GameBag\\Fight Monster Game\\MonsterObject.cs",
+              "RelativeToolTip": "Fight Monster Game\\MonsterObject.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAAA4wDoBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T07:55:15.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Player.cs",
+              "DocumentMoniker": "D:\\vs2022_C_sharp_daima_data\\GameBag\\GameBag\\Fight Monster Game\\Player.cs",
+              "RelativeDocumentMoniker": "Fight Monster Game\\Player.cs",
+              "ToolTip": "D:\\vs2022_C_sharp_daima_data\\GameBag\\GameBag\\Fight Monster Game\\Player.cs",
+              "RelativeToolTip": "Fight Monster Game\\Player.cs",
+              "ViewState": "AgIAAPoAAAAAAAAAAAAywHkBAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T01:04:55.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Prosition.cs",
+              "DocumentMoniker": "D:\\vs2022_C_sharp_daima_data\\GameBag\\GameBag\\Fight Monster Game\\Prosition.cs",
+              "RelativeDocumentMoniker": "Fight Monster Game\\Prosition.cs",
+              "ToolTip": "D:\\vs2022_C_sharp_daima_data\\GameBag\\GameBag\\Fight Monster Game\\Prosition.cs",
+              "RelativeToolTip": "Fight Monster Game\\Prosition.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAA8wCMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T11:48:54.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Weapon.cs",
+              "DocumentMoniker": "D:\\vs2022_C_sharp_daima_data\\GameBag\\GameBag\\Fight Monster Game\\Weapon.cs",
+              "RelativeDocumentMoniker": "Fight Monster Game\\Weapon.cs",
+              "ToolTip": "D:\\vs2022_C_sharp_daima_data\\GameBag\\GameBag\\Fight Monster Game\\Weapon.cs",
+              "RelativeToolTip": "Fight Monster Game\\Weapon.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAQwFkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T01:34:53.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EndScene.cs",
+              "DocumentMoniker": "D:\\vs2022_C_sharp_daima_data\\GameBag\\GameBag\\Fight Monster Game\\EndScene.cs",
+              "RelativeDocumentMoniker": "Fight Monster Game\\EndScene.cs",
+              "ToolTip": "D:\\vs2022_C_sharp_daima_data\\GameBag\\GameBag\\Fight Monster Game\\EndScene.cs",
+              "RelativeToolTip": "Fight Monster Game\\EndScene.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T07:22:59.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Boss.cs",
+              "DocumentMoniker": "D:\\vs2022_C_sharp_daima_data\\GameBag\\GameBag\\Fight Monster Game\\Boss.cs",
+              "RelativeDocumentMoniker": "Fight Monster Game\\Boss.cs",
+              "ToolTip": "D:\\vs2022_C_sharp_daima_data\\GameBag\\GameBag\\Fight Monster Game\\Boss.cs",
+              "RelativeToolTip": "Fight Monster Game\\Boss.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAABCwHQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T01:06:16.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BeginScene.cs",
+              "DocumentMoniker": "D:\\vs2022_C_sharp_daima_data\\GameBag\\GameBag\\Fight Monster Game\\BeginScene.cs",
+              "RelativeDocumentMoniker": "Fight Monster Game\\BeginScene.cs",
+              "ToolTip": "D:\\vs2022_C_sharp_daima_data\\GameBag\\GameBag\\Fight Monster Game\\BeginScene.cs",
+              "RelativeToolTip": "Fight Monster Game\\BeginScene.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAywAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T01:47:02.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BeginOrEndScene.cs",
+              "DocumentMoniker": "D:\\vs2022_C_sharp_daima_data\\GameBag\\GameBag\\Fight Monster Game\\BeginOrEndScene.cs",
+              "RelativeDocumentMoniker": "Fight Monster Game\\BeginOrEndScene.cs",
+              "ToolTip": "D:\\vs2022_C_sharp_daima_data\\GameBag\\GameBag\\Fight Monster Game\\BeginOrEndScene.cs",
+              "RelativeToolTip": "Fight Monster Game\\BeginOrEndScene.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAIBAwD4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T01:50:05.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Article.cs",
+              "DocumentMoniker": "D:\\vs2022_C_sharp_daima_data\\GameBag\\GameBag\\Fight Monster Game\\Article.cs",
+              "RelativeDocumentMoniker": "Fight Monster Game\\Article.cs",
+              "ToolTip": "D:\\vs2022_C_sharp_daima_data\\GameBag\\GameBag\\Fight Monster Game\\Article.cs",
+              "RelativeToolTip": "Fight Monster Game\\Article.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAIBAwKMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T01:17:51.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Armor.cs",
+              "DocumentMoniker": "D:\\vs2022_C_sharp_daima_data\\GameBag\\GameBag\\Fight Monster Game\\Armor.cs",
+              "RelativeDocumentMoniker": "Fight Monster Game\\Armor.cs",
+              "ToolTip": "D:\\vs2022_C_sharp_daima_data\\GameBag\\GameBag\\Fight Monster Game\\Armor.cs",
+              "RelativeToolTip": "Fight Monster Game\\Armor.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAA8wEcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T10:23:35.589Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
